@@ -14,13 +14,15 @@
 
 ## Contents
 
-1. [2026-10-09 – After reading a lot of documentation and looking at which types of switches and rotary switches I want  to use for the macro board, I started working on the KiCad for it. I started the schematic for t](#2026-10-09-after-reading-a-lot-of-documentation-and-looking-)
+1. [2026-10-09 – Update 1](#2026-10-09-update-1)
 
 ## Design
 
-### 2026-10-09 – After reading a lot of documentation and looking at which types of switches and rotary switches I want  to use for the macro board, I started working on the KiCad for it. I started the schematic for t
+### 2026-10-09 – Update 1
 
 **2h**
+
+Update 1
 
 After reading a lot of documentation and looking at which types of switches and rotary switches I want  to use for the macro board, I started working on the KiCad for it. I started the schematic for the switches and the Roarty encoder switch, which I still have to wire up, then I will add a Small OLED screen and the ESP32, as well as a way to make it work with a battery.  It took me some time to do my research on which kinds of switches I wanted to pick, and I chose the blue Cherry MX switches and the EC11E18244A5 	Alps Alpine rotary switch. I still have to look for the OLED display. I am new to KiCad, so it took me some time to learn how it works and how to make a proper schematic. I read the documentation on their website and looked through the internet for resources on how to make a macro board. Through my research, I had to look for specific libraries to make my macro board and plug-ins.
 
