@@ -19,7 +19,7 @@
 | [Oled Screen](https://www.amazon.com/HiLetgo-SH1107-128x128-Display-Module/dp/B0CFF435XZ/ref=sr_1_32?channelId=500&clpRedir=Y&plpRedirect=mhFallback&sr=8-32&xpid=B27EaxFx2Guxr) | It will show animations and tasks | 1 | $11.99 | $11.99 | [Amazon](https://www.amazon.com/HiLetgo-SH1107-128x128-Display-Module/dp/B0CFF435XZ/ref=sr_1_32?channelId=500&clpRedir=Y&plpRedirect=mhFallback&sr=8-32&xpid=B27EaxFx2Guxr) |
 | [Rubber Rotary Knob](https://www.adafruit.com/product/5093) | Its the Rotary Key cap | 1 | $0.75 | $0.75 | [adafruit](https://www.adafruit.com/product/5093) |
 | **Parts subtotal** | — | — | — | **$67.60** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$67.60** | — |
+| **Tax & shipping** | — | — | — | **$25.00** | — |
+| **Total** | — | — | — | **$92.60** | — |
 
-$32.40 left of the tier's funding.
+$7.40 left of the tier's funding.
